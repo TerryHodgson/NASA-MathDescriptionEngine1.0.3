@@ -1,5 +1,9 @@
 # NASA-MathDescriptionEngine1.0.3
-Open source release of NASA's Math Description Engine Software Development Kit (MDE SDK), v 1.0.3, NASA Open Source Agreement (NOSA) license. 
+
+REPOSITORY CREATION IN PROGRESS
+
+Open source release of NASA's Math Description Engine Software Development Kit (MDE SDK), 
+v 1.0.3, NASA Open Source Agreement (NOSA) license. 
 
 MDE Overview
 
