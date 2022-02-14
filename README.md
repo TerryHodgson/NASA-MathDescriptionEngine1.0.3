@@ -1,8 +1,8 @@
-# NASA-MathDescriptionEngine1.0.3
-
-REPOSITORY CREATION IN PROGRESS
+<em>REPOSITORY CREATION IN PROGRESS</em>
 
 <h1>Math Description Engine Software Development Kit (MDE SDK)</h1>
+<h2>Version 1.0.3, Build-201112201411, December 20, 2011, Release Date: January 3, 2011</h2>
+
 <em>"With about 100,000 blind and visually impaired students in the U.S., there is a growing need for alternative methods to teach visual subjects.", National Federation of the Blind Press Release</em>
 
 <em>Open source release of NASA's Math Description Engine Software Development Kit (MDE SDK), VERSION 1.0.3, NASA Open Source Agreement (NOSA) license</em>
