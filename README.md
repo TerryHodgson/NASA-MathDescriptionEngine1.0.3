@@ -3,7 +3,7 @@
 <h1>Math Description Engine Software Development Kit (MDE SDK)</h1>
 <h2>Version 1.0.3, Build-201112201411, December 20, 2011, Release Date: January 3, 2011</h2>
 
-<em>Open source release of NASA's Math Description Engine Software Development Kit (MDE SDK), VERSION 1.0.3, NASA Open Source Agreement (NOSA) license</em>
+<em>Final open source release of NASA's Math Description Engine Software Development Kit (MDE SDK), VERSION 1.0.3, NASA Open Source Agreement (NOSA) license.  Prior releases are available at [http://prime.jsc.nasa.gov/mde](http://prime.jsc.nasa.gov/mde)</em>
 
 Original development by NASA Learning Technologies, Information Accessibility Lab. Developers: Dr. Robert O. Shelton, [Terry Hodgson](https://www.linkedin.com/in/terryrhodgson/), Dan Dexter, Stephanie Smith, Dat Truong.  Runner-up in the <em>[NASA Software of the Year Award](https://ott.jpl.nasa.gov/award-program#:~:text=NASA%20Software%20of%20the%20Year%20(SOY)%20Competition&text=The%20prestigious%20SOY%20is%20designed,the%20NASA%20Chief%20Information%20Officer)</em> competition, in 2006.  Recognized Education Laureates in the [The Tech Awards](https://www.thetech.org/tech-global-good) 2007 international competition.
 
